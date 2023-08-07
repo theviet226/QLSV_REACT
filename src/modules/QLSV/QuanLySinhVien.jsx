@@ -5,7 +5,7 @@ export class QuanLySinhVien extends Component {
   render() {
     return (
       <div className='title'>
-        <div className='bg-cyan-400 text-center text-white text-5xl py-3'>
+        <div className='bg-red-400 text-center text-white text-5xl py-3'>
         Thông Tin Sinh Viên
         </div>
         <div className='container mt-3'>

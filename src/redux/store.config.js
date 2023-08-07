@@ -1,5 +1,5 @@
 import { createStore, combineReducers } from "redux";
-import { quanLySinhVienReducer } from "./QLSV/QuanLySinhVienReducer";
+import { quanLySinhVienReducer } from "./QLSV/QuanLySinhVien.reduce";
 const rootReducer = combineReducers({
     quanLySinhVienReducer,
 })
